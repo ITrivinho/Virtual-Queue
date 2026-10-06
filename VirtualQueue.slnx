@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/VirtualQueue.Api.Tests/VirtualQueue.Api.Tests.csproj" />
+  </Folder>
+  <Folder Name="/backend/VirtualQueue.Api/">
+    <Project Path="backend/VirtualQueue.Api/VirtualQueue.Api.csproj" />
+  </Folder>
+</Solution>

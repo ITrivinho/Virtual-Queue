@@ -1,0 +1,6 @@
+@VirtualQueue.api_HostAddress = http://localhost:5136
+
+GET {{VirtualQueue.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
